@@ -1,0 +1,14 @@
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\bin\Debug\netcoreapp3.1\Employee Wage by Switch case.exe
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\bin\Debug\netcoreapp3.1\Employee Wage by Switch case.deps.json
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\bin\Debug\netcoreapp3.1\Employee Wage by Switch case.runtimeconfig.json
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\bin\Debug\netcoreapp3.1\Employee Wage by Switch case.runtimeconfig.dev.json
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\bin\Debug\netcoreapp3.1\Employee Wage by Switch case.dll
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\bin\Debug\netcoreapp3.1\Employee Wage by Switch case.pdb
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.AssemblyInfo.cs
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.csproj.CoreCompileInputs.cache
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.dll
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.pdb
+C:\Users\dell\Lectures\Day4\Employee Wage by Switch case\Employee Wage by Switch case\obj\Debug\netcoreapp3.1\Employee Wage by Switch case.genruntimeconfig.cache

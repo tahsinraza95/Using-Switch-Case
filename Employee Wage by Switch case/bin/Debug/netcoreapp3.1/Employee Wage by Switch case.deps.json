@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Employee Wage by Switch case/1.0.0": {
+        "runtime": {
+          "Employee Wage by Switch case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee Wage by Switch case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
